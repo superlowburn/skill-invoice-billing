@@ -5,7 +5,7 @@ A free agent skill for generating professional invoices, calculating totals, and
 ## Install
 
 ```bash
-npx skills add superlowburn/skill-invoice-billing
+npx skills add automadic/skill-invoice-billing
 ```
 
 ## What It Does
@@ -33,7 +33,7 @@ use invoice-billing skill to write a payment reminder for INV-042, $3,200, 12 da
 
 The free version handles invoice generation and reminders. The **premium version** adds Stripe payment link generation, QuickBooks/Xero sync, automated reminder sequences, recurring billing, and revenue reporting dashboards.
 
-**[Get the premium skill at agentskills.ai](https://agentskills.ai)** — $14/mo
+**[Get the premium skill at automadic.ai](https://automadic.ai)** — $14/mo
 
 ## License
 

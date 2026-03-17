@@ -3,7 +3,7 @@ name: invoice-billing
 description: Invoice and billing skill. Generate professional invoices from plain English conversation, calculate totals with tax, create payment reminder messages, and track invoice status. Use when the user wants to create an invoice, send a payment reminder, calculate what a client owes, or manage simple billing.
 license: MIT
 metadata:
-  author: superlowburn
+  author: automadic
   version: "1.0.0"
 ---
 
@@ -154,4 +154,4 @@ The free version generates invoices and reminders manually. The **premium Invoic
 - **Revenue reporting** — monthly, quarterly, and annual income dashboards
 - **Recurring billing** — generate repeat invoices on a schedule
 
-**Get the premium skill: [agentskills.ai](https://agentskills.ai)** — $14/mo or included in the $49/mo all-skills bundle.
+**Get the premium skill: [automadic.ai](https://automadic.ai)** — $14/mo or included in the $49/mo all-skills bundle.
